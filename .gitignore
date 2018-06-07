@@ -37,3 +37,6 @@ rsconnect/
 
 # Sprites need to be downloaded through the script and will not be provided
 data/sprites/*
+
+# Business examples only for local presentation, not for public
+data/plot_examples/good*
